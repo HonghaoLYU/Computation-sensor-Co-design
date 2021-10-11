@@ -19,7 +19,8 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 Real-time demonstration of the application on estimating the contact position.
 <table align='center'>
 <tr>
-<td align='center' valign="middle"> <img src="https://honghaolyu.github.io/Computation-sensor-Co-design/images/position-estimation.png" width="295" height="300" alt="error distributions"/> </td>
+<!-- <td align='center' valign="middle"> <img src="https://honghaolyu.github.io/Computation-sensor-Co-design/images/position-estimation.png" width="295" height="300" alt="error distributions"/> </td> -->
+<td align='center' valign="middle"> <video src="https://honghaolyu.github.io/Computation-sensor-Co-design/videos/Video1.mp4" type="video/mp4" controls="controls" width="" height="300"> 您的浏览器不支持播放该视频！</video> </td>
 <td align='center' valign="middle"> <video src="https://honghaolyu.github.io/Computation-sensor-Co-design/videos/Video1.mp4" type="video/mp4" controls="controls" width="" height="300"> 您的浏览器不支持播放该视频！</video> </td>
 </tr>
 <tr>
