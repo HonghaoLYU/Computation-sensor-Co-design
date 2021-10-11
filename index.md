@@ -14,8 +14,7 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 ## Supplementary Video 1 - Demonstration on touch position estimation
 
 <p align='center'>
-  <video id="video" controls="" preload="none" poster="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/images/overview.png">
-      <source id="mp4" src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/videos/Video1.mp4" type="video/mp4">
+  <video id="video" src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/videos/Video1.mp4" type="video/mp4" controls="controls" width="500" height="282"> 
   </videos>
 </p>
 
