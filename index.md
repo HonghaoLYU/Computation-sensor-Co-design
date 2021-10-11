@@ -1,8 +1,7 @@
-## Computation-sensor-Co-design
+Tips: You can get a better experience of this site in [Google chrome](https://www.google.com/chrome) browser.
+# Abstract
+Deep learning (DL) techniques have shown great potentials in robotic tactile sensing that is an essential component in human-robot interaction (HRI). Conventionally, DL algorithms are customized for off-the-shelf tactile sensors, whereas the structural design of sensors that contributes to the performance of the algorithm is less considered during the design phase. Here, this paper jointly designs an elaborately shaped piezoresistive tactile sensor and a novel DL-based algorithm with data augmentation, alleviating the tradeoff between tactile sensing performance and hardware simplicity. The tactile sensor was prototyped in a modularized design with the hexagonal geometry, promising its scalability to large areas. The proposed data self-augmentation strategy draws on the rotational symmetry of the regular hexagon structure. It provides a novel way to expanding the original training set by generating pseudo data, which in return reduces the required data for training a deep neural network (DNN). By leveraging a pre-trained DNN for computationally efficient nonlinear reconstruction, the sensor can estimate force and localize contact over the continuous sensor area, achieving high-resolution tactile sensation. The functionality of the sensor and the data self-augmentation strategy were also demonstrated by touch modality recognition tasks, illustrating a well-generalized performance and the promising application prospects in HRI.
 
-You can use the [editor on GitHub](https://github.com/HonghaoLYU/Computation-sensor-Co-design/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-hello, world!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
