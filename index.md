@@ -6,6 +6,10 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 <img src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/images/overview.png" width="900" height="480" alt="process overview"/>
 </p>
 
+# Supplementary Videos
+## Supplementary Video 1 - Demonstration on touch position estimation
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
