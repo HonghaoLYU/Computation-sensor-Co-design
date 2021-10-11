@@ -16,7 +16,7 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 Real-time demonstration of the application of the sensor on estimating the contact position.
 <table align='center'>
 <tr>
-<td align='center' valign="middle"> <img src="/images/position-estimation.png" width="" height="" alt="process overview"/> </td>
+<td align='center' valign="middle"> <img src="https://honghaolyu.github.io/Computation-sensor-Co-design/images/position-estimation.png" width="" height="" alt="process overview"/> </td>
 <td align='center' valign="middle"> <video src="/videos/Video1.mp4" type="video/mp4" controls="controls" width="" height=""> 您的浏览器不支持播放该视频！</video> </td>
 </tr>
 <tr>
