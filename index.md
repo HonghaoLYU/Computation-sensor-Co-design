@@ -5,11 +5,21 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 <p align='center'>
   <img src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/images/overview.png" width="900" height="480" alt="process overview"/>
 </p>
+<p align='center'>
+  The proposed learning-based framework
+</p>
+
 
 # Supplementary Videos
 ## Supplementary Video 1 - Demonstration on touch position estimation
+
 <p align='center'>
-  <video src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/videos/Supplementary%20Video%201-Demonstration%20on%20touch%20position%20estimation.mp4" type="video/mp4" controls="controls" width="500" height="282"> 您的浏览器不支持播放该视频！</video>
+  test
+  <video id="video" controls="" preload="none" poster="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/images/overview.png">
+      <source id="mp4" src="mp4格式视频" type="video/mp4">
+  </videos>
+  <video id="video" src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/videos/Supplementary%20Video%201-Demonstration%20on%20touch%20position%20estimation.mp4" type="video/mp4" controls="controls" width="500" height="282"> 
+  </videos>
 </p>
 
 
