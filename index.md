@@ -32,7 +32,7 @@ Real-time demonstration of the application on estimating the contact position.
 Real-time demonstration of the application on touch modality recognition.
 <table align='center'>
 <tr>
-<td align='center' valign="middle"> <img src="https://honghaolyu.github.io/Computation-sensor-Co-design/images/confusion matrix.png" width="380" height="300" alt="process overview"/> </td>
+<td align='center' valign="middle"> <img src="https://honghaolyu.github.io/Computation-sensor-Co-design/images/confusion matrix.png" width="450" height="300" alt="process overview"/> </td>
 <td align='center' valign="middle"> <video src="https://honghaolyu.github.io/Computation-sensor-Co-design/videos/Video2.mp4" type="video/mp4" controls="controls" width="" height="300"> 您的浏览器不支持播放该视频！</video> </td>
 </tr>
 <tr>
