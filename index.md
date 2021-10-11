@@ -12,7 +12,7 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 
 # Supplementary Videos
 ## Supplementary Video 1 - Demonstration on touch position estimation
-
+Real-time demonstration of the application of the sensor on estimating the contact position.
 <table align='center'>
 <tr>
 <td align='center' valign="middle"> <img src="/images/position-estimation.png" width="" height="" alt="process overview"/> </td>
@@ -25,7 +25,7 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 </table>
 
 ## Supplementary Video 2 - Demonstration on touch modality recognition
-
+Real-time demonstration of the application of the sensor on touch modality recognition.
 <table align='center'>
 <tr>
 <td align='center' valign="middle"> <img src="/images/confusion matrix.png" width="" height="" alt="process overview"/> </td>
