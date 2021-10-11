@@ -4,9 +4,6 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 ## Abstract
 &emsp;&emsp;Deep learning (DL) techniques have shown great potentials in robotic tactile sensing that is an essential component in human-robot interaction (HRI). Conventionally, DL algorithms are customized for off-the-shelf tactile sensors, whereas the structural design of sensors that contributes to the performance of the algorithm is less considered during the design phase. Here, this paper jointly designs an elaborately shaped piezoresistive tactile sensor and a novel DL-based algorithm with data augmentation, alleviating the tradeoff between tactile sensing performance and hardware simplicity. The tactile sensor was prototyped in a modularized design with the hexagonal geometry, promising its scalability to large areas. The proposed data self-augmentation strategy draws on the rotational symmetry of the regular hexagon structure. It provides a novel way to expanding the original training set by generating pseudo data, which in return reduces the required data for training a deep neural network (DNN). By leveraging a pre-trained DNN for computationally efficient nonlinear reconstruction, the sensor can estimate force and localize contact over the continuous sensor area, achieving high-resolution tactile sensation. The functionality of the sensor and the data self-augmentation strategy were also demonstrated by touch modality recognition tasks, illustrating a well-generalized performance and the promising application prospects in HRI.
 
-### Contact: 
-[Depeng Kong](http://fsie-zju.com/team/) (kongdepeng [at] zju.edu.cn)
-
 <p align='center'>
   <img src="https://honghaolyu.github.io/Computation-sensor-Co-design/images/overview.png" width="900" height="450" alt="process overview"/>
 </p>
@@ -14,6 +11,8 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
   The proposed learning-based framework
 </p>
 
+### Contact: 
+[Depeng Kong](http://fsie-zju.com/team/) (kongdepeng [at] zju.edu.cn)
 
 ## Supplementary Videos
 ### Supplementary Video 1 - Demonstration on touch position estimation
