@@ -36,7 +36,7 @@ Real-time demonstration of the application on touch modality recognition.
 <td align='center' valign="middle"> <video src="https://honghaolyu.github.io/Computation-sensor-Co-design/videos/Video2.mp4" type="video/mp4" controls="controls" width="" height="300"> 您的浏览器不支持播放该视频！</video> </td>
 </tr>
 <tr>
-<td align='center'> Confusion matrix results </td>
+<td align='center'> Confusion matrix results-test </td>
 <td align='center'> Demonstration on touch modality recognition </td>
 </tr>
 </table>
