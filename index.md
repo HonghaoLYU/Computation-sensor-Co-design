@@ -9,8 +9,7 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 # Supplementary Videos
 ## Supplementary Video 1 - Demonstration on touch position estimation
 <p align='center'>
-  
-
+  <video src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/videos/Supplementary%20Video%201-Demonstration%20on%20touch%20position%20estimation.mp4" type="video/mp4" controls="controls" width="500" height="282"> 您的浏览器不支持播放该视频！</video>
 </p>
 
 
