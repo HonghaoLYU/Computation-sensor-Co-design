@@ -12,7 +12,7 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 
 # Supplementary Videos
 ## Supplementary Video 1 - Demonstration on touch position estimation
-|<img src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/images/position-estimation.png" width="" height="" alt="process overview"/>|<video id="video" src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/videos/Video1.mp4" type="video/mp4" controls="controls" width="" height=""></videos>|
+|<img src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/images/position-estimation.png" width="" height="" alt="process overview"/>|<img src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/images/position-estimation.png" width="" height="" alt="process overview"/>|
 |---|---|
 |Error distributions|Demonstration on position estimation|
 
