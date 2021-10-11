@@ -1,5 +1,6 @@
 Tips: You can get a better experience of this site in [Google chrome](https://www.google.com/chrome) browser.
-# Abstract
+# Computation-Sensor Co-Design for Robotic Tactile Sensing with Training Data Augmentation
+## Abstract
 &emsp;&emsp;Deep learning (DL) techniques have shown great potentials in robotic tactile sensing that is an essential component in human-robot interaction (HRI). Conventionally, DL algorithms are customized for off-the-shelf tactile sensors, whereas the structural design of sensors that contributes to the performance of the algorithm is less considered during the design phase. Here, this paper jointly designs an elaborately shaped piezoresistive tactile sensor and a novel DL-based algorithm with data augmentation, alleviating the tradeoff between tactile sensing performance and hardware simplicity. The tactile sensor was prototyped in a modularized design with the hexagonal geometry, promising its scalability to large areas. The proposed data self-augmentation strategy draws on the rotational symmetry of the regular hexagon structure. It provides a novel way to expanding the original training set by generating pseudo data, which in return reduces the required data for training a deep neural network (DNN). By leveraging a pre-trained DNN for computationally efficient nonlinear reconstruction, the sensor can estimate force and localize contact over the continuous sensor area, achieving high-resolution tactile sensation. The functionality of the sensor and the data self-augmentation strategy were also demonstrated by touch modality recognition tasks, illustrating a well-generalized performance and the promising application prospects in HRI.
 
 <p align='center'>
@@ -10,8 +11,8 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 </p>
 
 
-# Supplementary Videos
-## Supplementary Video 1 - Demonstration on touch position estimation
+## Supplementary Videos
+### Supplementary Video 1 - Demonstration on touch position estimation
 Real-time demonstration of the application of the sensor on estimating the contact position.
 <table align='center'>
 <tr>
@@ -24,7 +25,7 @@ Real-time demonstration of the application of the sensor on estimating the conta
 </tr>
 </table>
 
-## Supplementary Video 2 - Demonstration on touch modality recognition
+### Supplementary Video 2 - Demonstration on touch modality recognition
 Real-time demonstration of the application of the sensor on touch modality recognition.
 <table align='center'>
 <tr>
