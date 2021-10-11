@@ -16,7 +16,7 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 
 ## Supplementary Videos
 ### Supplementary Video 1 - Demonstration on touch position estimation
-Real-time demonstration of the application of the sensor on estimating the contact position.
+Real-time demonstration of the application on estimating the contact position.
 <table align='center'>
 <tr>
 <td align='center' valign="middle"> <img src="https://honghaolyu.github.io/Computation-sensor-Co-design/images/position-estimation.png" width="" height="280" alt="process overview"/> </td>
@@ -29,7 +29,7 @@ Real-time demonstration of the application of the sensor on estimating the conta
 </table>
 
 ### Supplementary Video 2 - Demonstration on touch modality recognition
-Real-time demonstration of the application of the sensor on touch modality recognition.
+Real-time demonstration of the application on touch modality recognition.
 <table align='center'>
 <tr>
 <td align='center' valign="middle"> <img src="https://honghaolyu.github.io/Computation-sensor-Co-design/images/confusion matrix.png" width="" height="280" alt="process overview"/> </td>
