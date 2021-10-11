@@ -16,8 +16,8 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 Real-time demonstration of the application of the sensor on estimating the contact position.
 <table align='center'>
 <tr>
-<td align='center' valign="middle"> <img src="https://honghaolyu.github.io/Computation-sensor-Co-design/images/position-estimation.png" width="" height="" alt="process overview"/> </td>
-<td align='center' valign="middle"> <video src="https://honghaolyu.github.io/Computation-sensor-Co-design/videos/Video1.mp4" type="video/mp4" controls="controls" width="500" height=""> 您的浏览器不支持播放该视频！</video> </td>
+<td align='center' valign="middle"> <img src="https://honghaolyu.github.io/Computation-sensor-Co-design/images/position-estimation.png" width="" height="280" alt="process overview"/> </td>
+<td align='center' valign="middle"> <video src="https://honghaolyu.github.io/Computation-sensor-Co-design/videos/Video1.mp4" type="video/mp4" controls="controls" width="" height="280"> 您的浏览器不支持播放该视频！</video> </td>
 </tr>
 <tr>
 <td align='center'> Error distributions </td>
@@ -29,8 +29,8 @@ Real-time demonstration of the application of the sensor on estimating the conta
 Real-time demonstration of the application of the sensor on touch modality recognition.
 <table align='center'>
 <tr>
-<td align='center' valign="middle"> <img src="https://honghaolyu.github.io/Computation-sensor-Co-design/images/confusion matrix.png" width="" height="" alt="process overview"/> </td>
-<td align='center' valign="middle"> <video src="https://honghaolyu.github.io/Computation-sensor-Co-design/videos/Video2.mp4" type="video/mp4" controls="controls" width="500" height=""> 您的浏览器不支持播放该视频！</video> </td>
+<td align='center' valign="middle"> <img src="https://honghaolyu.github.io/Computation-sensor-Co-design/images/confusion matrix.png" width="" height="280" alt="process overview"/> </td>
+<td align='center' valign="middle"> <video src="https://honghaolyu.github.io/Computation-sensor-Co-design/videos/Video2.mp4" type="video/mp4" controls="controls" width="" height="280"> 您的浏览器不支持播放该视频！</video> </td>
 </tr>
 <tr>
 <td align='center'> Confusion matrix results </td>
