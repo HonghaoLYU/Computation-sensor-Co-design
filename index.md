@@ -12,25 +12,27 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 
 # Supplementary Videos
 ## Supplementary Video 1 - Demonstration on touch position estimation
-|<img src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/images/position-estimation.png" width="" height="" alt="process overview"/>|<img src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/images/position-estimation.png" width="" height="" alt="process overview"/>|
-|---|---|
-|Error distributions|Demonstration on position estimation|
 
-<p align='center'>
-  test supplementary video 1
-</p>
+<table align='center'>
+<tr>
+<td align='center' valign="middle"> <img src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/images/position-estimation.png" width="" height="" alt="process overview"/> </td>
+<td align='center' valign="middle"> <video src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/videos/Video1.mp4" type="video/mp4" controls="controls" width="500" height="282"> 您的浏览器不支持播放该视频！</video> </td>
+</tr>
+<tr>
+<td align='center'> Error distributions </td>
+<td align='center'> Demonstration on position estimation </td>
+</tr>
+</table>
 
 ## Supplementary Video 2 - Demonstration on touch modality recognition
 
-<video id="video" src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/videos/Video1.mp4" type="video/mp4" controls="controls" width="500" height="282"> 
-  </videos>
-  <video id="video" controls="" preload="none" poster="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/images/overview.png">
-      <source id="mp4" src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/videos/Video1.mp4" type="video/mp4">
-  </videos>
-<p align='center'>
-  <video id="video" src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/videos/Video2.mp4" type="video/mp4" controls="controls" width="500" height="282"> 
-  </videos>
-  <video id="video" controls="" preload="none" poster="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/images/overview.png">
-      <source id="mp4" src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/videos/Video2.mp4" type="video/mp4">
-  </videos>
-</p>
+<table align='center'>
+<tr>
+<td align='center' valign="middle"> <img src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/images/confusion matrix.png" width="" height="" alt="process overview"/> </td>
+<td align='center' valign="middle"> <video src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/videos/Video2.mp4" type="video/mp4" controls="controls" width="500" height="282"> 您的浏览器不支持播放该视频！</video> </td>
+</tr>
+<tr>
+<td align='center'> Confusion matrix results </td>
+<td align='center'> Demonstration on touch modality recognition </td>
+</tr>
+</table>
