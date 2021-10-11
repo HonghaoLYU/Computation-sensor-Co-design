@@ -16,7 +16,7 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 <table align='center'>
 <tr>
 <td align='center' valign="middle"> <img src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/images/position-estimation.png" width="" height="" alt="process overview"/> </td>
-<td align='center' valign="middle"> <video src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/videos/Video1.mp4" type="video/mp4" controls="controls" width="500" height="282"> 您的浏览器不支持播放该视频！</video> </td>
+<td align='center' valign="middle"> <video src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/videos/Video1.mp4" type="video/mp4" controls="controls" width="" height=""> 您的浏览器不支持播放该视频！</video> </td>
 </tr>
 <tr>
 <td align='center'> Error distributions </td>
@@ -29,7 +29,7 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 <table align='center'>
 <tr>
 <td align='center' valign="middle"> <img src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/images/confusion matrix.png" width="" height="" alt="process overview"/> </td>
-<td align='center' valign="middle"> <video src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/videos/Video2.mp4" type="video/mp4" controls="controls" width="500" height="282"> 您的浏览器不支持播放该视频！</video> </td>
+<td align='center' valign="middle"> <video src="https://github.com/HonghaoLYU/Computation-sensor-Co-design/blob/gh-pages/videos/Video2.mp4" type="video/mp4" controls="controls" width="" height=""> 您的浏览器不支持播放该视频！</video> </td>
 </tr>
 <tr>
 <td align='center'> Confusion matrix results </td>
