@@ -18,6 +18,7 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 ### Supplementary Video 1 - Demonstration on touch position estimation
 Real-time demonstration of the application on estimating the contact position.
 
+<div style="align: center">
 <table align='center'>
 <tr>
 <td align='center' valign="middle"> <img src="https://honghaolyu.github.io/Computation-sensor-Co-design/images/position-estimation.png" width="" height="350" alt="error distributions"/> </td>
@@ -28,6 +29,7 @@ Real-time demonstration of the application on estimating the contact position.
 <td align='center'> Demonstration on position estimation </td>
 </tr>
 </table>
+</div>
 
 ### Supplementary Video 2 - Demonstration on touch modality recognition
 Real-time demonstration of the application on touch modality recognition.
